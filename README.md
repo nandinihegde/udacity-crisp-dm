@@ -6,3 +6,5 @@ The datasets can be found on http://insideairbnb.com/
 The analysis is broken down into 2 parts.
 Part-1 consists of exploratory data analysis on the Calendars dataset to explore the trend in bookings and revenue.
 Part-2 explores the Listing datasets in conjuctions with the Calendars dataset to build a Machine learning model to identify the features that most affected bookings during these two years
+
+My medium blogpost is available to read on https://medium.com/@hegdenandini/impact-analysis-of-covid-lockdowns-on-airbnb-listings-in-los-angeles-19597b8cf6ac

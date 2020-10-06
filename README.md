@@ -1,4 +1,5 @@
 This project is part of the submission for UDACITY CRISP-DM Project.
+
 **Summary/Motivation for the project:**
 Covid-19 forced several states in the United States to announce lockdowns which had its impact on several businesses. Specifically the City of Los Angeles went into lockdown starting March,2020.
 This project is an Impact analysis of COVID lockdowns on Airbnb listings in Los Angeles. A comparitive approach has been used to conduct this analysis wherein the Bookings trends of early 2019 were compared to that of early 2020.

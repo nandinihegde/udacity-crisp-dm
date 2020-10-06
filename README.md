@@ -4,7 +4,7 @@ This project is part of the submission for UDACITY CRISP-DM Project.
 Covid-19 forced several states in the United States to announce lockdowns which had its impact on several businesses. Specifically the City of Los Angeles went into lockdown starting March,2020.
 This project is an Impact analysis of COVID lockdowns on Airbnb listings in Los Angeles. A comparitive approach has been used to conduct this analysis wherein the Bookings trends of early 2019 were compared to that of early 2020.
 **Blog-post:**
-My [medium blogpost is available to read on] (https://medium.com/@hegdenandini/impact-analysis-of-covid-lockdowns-on-airbnb-listings-in-los-angeles-19597b8c)
+My medium blogpost is available to read on https://medium.com/@hegdenandini/impact-analysis-of-covid-lockdowns-on-airbnb-listings-in-los-angeles-19597b8c
  
 **Datasets used:**
 The datasets are fairly large in size and could not be included in the repository but can be found on http://insideairbnb.com/
@@ -18,8 +18,8 @@ For the purpose of conducting this analysis, I have tried to derive the answers 
  
 **Files in the repository**
 The analysis is broken down into 2 parts which can be found in the files as named below.
-Part-1 CRISP-DM Project-Part 1 Calendar analysis_20201003_final.ipynb: Consists of exploratory data analysis on the Calendars dataset to explore the trend in bookings and revenue. This part helps derive answers to the first two questions.
-Part-2 CRISP-DM Project-Part 2 Lisitings analysis_20201003_final.ipynb: This part explores the Listing datasets in conjuctions with the Calendars dataset to build a Machine learning model to identify the features that most affected bookings during these two years. This part majorly answers the third question.
+- Part-1 CRISP-DM Project-Part 1 Calendar analysis_20201003_final.ipynb: Consists of exploratory data analysis on the Calendars dataset to explore the trend in bookings and revenue. This part helps derive answers to the first two questions.
+- Part-2 CRISP-DM Project-Part 2 Lisitings analysis_20201003_final.ipynb: This part explores the Listing datasets in conjuctions with the Calendars dataset to build a Machine learning model to identify the features that most affected bookings during these two years. This part majorly answers the third question.
 f6ac
  
  **Libraries used:**
@@ -54,7 +54,7 @@ f6ac
     import pickle
     from pprint import pprint
 
-    #Google cloud connectivity
+    #Google cloud connectivity related libaries
     import gcsfs
     from google.cloud import storage
     from IPython.core.display import display
